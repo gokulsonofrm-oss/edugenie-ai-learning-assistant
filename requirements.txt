@@ -1,8 +1,5 @@
-﻿fastapi
+fastapi
 uvicorn
 jinja2
 google-genai
 python-dotenv
-transformers
-torch
-sentencepiece
